@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://api.github.com",
+    "status": 200,
+    "ok": true,
+    "intentos": 1
+  },
+  {
+    "url": "https://httpbin.org/status/404",
+    "status": 404,
+    "ok": false,
+    "intentos": 1
+  },
+  {
+    "url": "https://httpbin.org/get",
+    "status": 200,
+    "ok": true,
+    "intentos": 1
+  },
+  {
+    "url": "https://example.com",
+    "status": 200,
+    "ok": true,
+    "intentos": 1
+  }
+]
